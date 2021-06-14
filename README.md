@@ -1,4 +1,1 @@
-- 👀 I’m interested in Nodejs, Typescript, GraphQL
-- 🌱 I’m currently learning Nestjs, Type-orm, Postgres
-- 💞️ I’m looking to collaborate on Reactjs, Vuejs
-- 📫 How to reach me novandaahsan1@gmail.com
+
