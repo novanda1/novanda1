@@ -7,4 +7,4 @@ Enjoy building stuff with:
 `WithAPI<Rest & GraphQL>`
 
 Let's get in touch:  
-[Discord](https://discord.com/channels/avocado#7157) . [LinkedIn](https://www.linkedin.com/in/novanda-ahsan-0566a4194/) . [Email](mailto:novandaahsan1@gmail.com)
+[Website](https://www.novandaahsan.com/) . [Discord](https://discord.com/channels/avocado#7157) . [LinkedIn](https://www.linkedin.com/in/novanda-ahsan-0566a4194/) . [Email](mailto:novandaahsan1@gmail.com)
