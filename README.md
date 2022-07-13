@@ -1,4 +1,4 @@
-Enjoy building stuff with:  
+Passionate on Software Engineering: 
 `WithLanguage<JavaScript & TypeScript & Golang & Python>`,  
 `WithDatabase<Postgres & MySQL & MongoDB>`,  
 `WithORM<Prisma & TypeORM>`,  
