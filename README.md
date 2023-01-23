@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novanda1&langs_count=3&theme=swift&custom_title=Most%20Loved%20Languages%20✨)](https://novandaahsan.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novanda1&langs_count=99&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages%20⭐)](https://novandaahsan.com)
